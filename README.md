@@ -1,5 +1,5 @@
 # knight-tour-pygame
-Knight tour problem visualizing with Pygame
+Knight tour problem solved by backtrack algorithm. Visualizing with Pygame.
 
 ### 5X5 Board
 ![knight-tour-5X5](https://user-images.githubusercontent.com/74141558/224475555-5bc2a099-6d65-4540-99e4-64ef398fb2ff.gif)
